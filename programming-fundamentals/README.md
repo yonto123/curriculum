@@ -1,46 +1,29 @@
 # Programming fundamentals
 
-## Introduction
+Learn the fundamentals of programming
 
-> From "Automate the boring stuff".
+Learning material: [Automate the boring stuff](https://automatetheboringstuff.com/).
 
-**What is programming?**
+Read and do exercises from chapter 0 to chapter 8 and chapter 10, that includes:
 
-Television shows and films often show programmers furiously typing cryptic streams of 1s and 0s on glowing screens, but  modern programming isn’t that mysterious. *Programming* is simply the act of entering instructions for the computer to perform. These instructions might crunch some numbers, modify text, look up information in files, or communicate with other computers over the Internet.
+1. Introduction and setup
 
-All programs use basic instructions as building blocks. Here are a few of the most common ones, in English:
+2. Python basics
 
-- “Do this; then do that.”
-- “If this condition is true, perform this action; otherwise, do that action.”
-- “Do this action exactly 27 times.”
-- “Keep doing that until this condition is true.”
+3. Flow control
 
-You can combine these building blocks to implement more intricate decisions, too.
+4. Functions
 
-**What Is Python?**
+5. Lists (or arrays)
 
-*Python* is a programming language (with syntax rules for writing what is considered valid Python code) and the Python interpreter software that reads source code (written in the Python language) and performs its instructions. 
+6. Dictionaries and structuring data
 
-## Projects
+7. Strings
 
-| Project                 | Description |
-| ----------------------- | ----------- |
-| [Project st](project-1) |             |
-|                         |             |
+8. Pattern matching with regular expressions
 
-## Lessons
+9. Reading and writing files
 
-### Something project 1
+10. Debugging
 
-| Lesson | Description |
-| ------ | ----------- |
-|        |             |
-|        |             |
-
-### Something project 2
-
-| Lesson | Description |
-| ------ | ----------- |
-|        |             |
-|        |             |
-
+That rest of the book should serve as practice for what you have learned. Do at least 3 of them.   
